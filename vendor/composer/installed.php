@@ -1,6 +1,6 @@
 <?php return array(
     'root' => array(
-        'name' => 'pph21/calculate',
+        'name' => 'pajak21/calculate',
         'pretty_version' => '1.0.0+no-version-set',
         'version' => '1.0.0.0',
         'reference' => NULL,
